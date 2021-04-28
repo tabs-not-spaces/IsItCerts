@@ -1,5 +1,10 @@
 name: Build & Deploy
-on: [push]
+on:
+  push:
+    branches: master
+    paths-ignore:
+      - 'readme.md'
+      - 'sitebuild.yml'
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest      
