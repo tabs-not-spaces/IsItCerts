@@ -1,0 +1,33 @@
+@tailwind base;
+
+/* Write your own custom base styles here */
+
+/* Start purging... */
+@tailwind components;
+/* Stop purging. */
+
+/* Write your own custom component styles here */
+/* .btn-blue { */
+/*     @apply bg-blue-500 text-white font-bold py-2 px-4 rounded; */
+/* } */
+
+/* Start purging... */
+@tailwind utilities;
+/* Stop purging. */
+
+/* Your own custom utilities */
+.color-8fa5b6 {
+    color: #8fa5b6;
+}
+.color-bd93f9 {
+    color: #bd93f9;
+}
+.color-ff79c6 {
+    color: #ff79c6;
+}
+.color-50fa7b {
+    color: #50fa7b;
+}
+.ben-hr {
+    height: 2px;
+}
