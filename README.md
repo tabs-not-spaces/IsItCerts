@@ -1,6 +1,10 @@
-# [Next.js Starter](https://github.com/Rixcy/nextjs-starter) by [Rixcy](https://github.com/Rixcy)
+# IS IT CERTS???
 
-![Next.js starter preview](https://user-images.githubusercontent.com/11819124/94376903-64ae0800-0115-11eb-815b-46caa7f9b295.png)
+[![Build & Deploy](https://github.com/tabs-not-spaces/IsItCerts/actions/workflows/sitebuild.yml/badge.svg)](https://github.com/tabs-not-spaces/IsItCerts/actions/workflows/sitebuild.yml)
+
+![site screenshot](https://user-images.githubusercontent.com/33951277/116375292-7e9dfd80-a852-11eb-90ab-ff0e99a1f7df.png)
+
+Built using [Next.js Starter](https://github.com/Rixcy/nextjs-starter) by [Rixcy](https://github.com/Rixcy)
 
 ## Getting Started
 
