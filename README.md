@@ -2,8 +2,6 @@
 
 ![Next.js starter preview](https://user-images.githubusercontent.com/11819124/94376903-64ae0800-0115-11eb-815b-46caa7f9b295.png)
 
-[![Build & Deploy](https://github.com/tabs-not-spaces/IsItCerts/actions/workflows/sitedeploy.yml/badge.svg)](https://github.com/tabs-not-spaces/IsItCerts/actions/workflows/sitedeploy.yml)
-
 ## Getting Started
 
 ### Using the starter
