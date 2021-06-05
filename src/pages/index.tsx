@@ -103,15 +103,6 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-YD5FQFDKCT"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-YD5FQFDKCT');
-        </script>
         <title>Is It Certificates?</title>
       </Head>
 
