@@ -21,14 +21,6 @@ class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
             rel="stylesheet"
           />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-YD5FQFDKCT"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-YD5FQFDKCT');
-        </script>
         </Head>
         <body className="font-body bg-gray-900">
           <Main />
